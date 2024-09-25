@@ -5,6 +5,7 @@ Ziad Tamim</a></h1>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Rla2JobXJob2wzcXoyeTM4NHg1M3cwMHA4anEwMHcydjcwaHJrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pTsNgkamxfk2ZLq/giphy.webp">
 </a>
+<br/>
 
 - 🔭 I’m currently a student at <a href="https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/artificial-intelligence-msc/" target="blank">Queen Mary University of London</a>
 
@@ -19,7 +20,6 @@ Ziad Tamim</a></h1>
 - 📫 How to reach me **ziad2.tamim@hotmail.com**
 
 
-<br/>
 <br/>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
