@@ -96,6 +96,9 @@
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy" width="40" height="40"/>
     </a>
+      <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="raspberry pi" width="40" height="40"/>
+    </a>
 </p>
 
 ### Blog posts
