@@ -6,17 +6,17 @@
 </a>
 <br/>
 
-- 🔭 I’m currently a student at <a href="https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/artificial-intelligence-msc/" target="_blank">Queen Mary University of London</a>
+- I’m an MSc graduate from <a href="https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/artificial-intelligence-msc/" target="_blank">Queen Mary University of London</a> with a degree in Artificial Intelligence 
 
-- 🌱 I’m currently working on a computer vision project to measure the size of objects using image processing.
+-  I’m currently working on a computer vision project to measure the size of objects using image processing
 
-- 🌱 I’m currently learning <a href="https://www.coursera.org/learn/understanding-visualization-data?myLearningTab=IN_PROGRESS" target="_blank">Statistics with Python</a>
+-  I’m currently learning from the book "Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow"
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@Ziad_Tamim)
+-  I regularly write articles on [Medium](https://medium.com/@Ziad_Tamim) about machine learning and AI
 
-- 💬 Ask me about **Computer Vision and Deep Learning**
+-  Ask me about **Machine Learning and Deep Learning**
 
-- 📫 How to reach me **ziad2.tamim@hotmail.com**
+-  How to reach me **ziad_tamim@outlook.com**
 
 <br/>
 
