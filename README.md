@@ -8,7 +8,7 @@
 
 - I’m an MSc graduate from <a href="https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/artificial-intelligence-msc/" target="_blank">Queen Mary University of London</a> with a degree in Artificial Intelligence 
 
--  I’m currently working on a computer vision project to measure the size of objects using image processing
+-  I’m currently working on a website that can optimize a CV based on job requirments
 
 -  I’m currently learning from the book "Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow"
 
@@ -49,7 +49,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="flask" width="40" height="40"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
