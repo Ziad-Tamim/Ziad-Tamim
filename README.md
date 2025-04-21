@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ziad Tamim</h1>
-<h3 align="center">A passionate Artificial Intelligence developer from Saudi Arabia</h3>
+<h3 align="center">An Artificial Intelligence developer from Jeddah, Saudi Arabia</h3>
 
 <a href="#" target="_blank" align="center">
   <img align="right" height="300" width="400" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Rla2JobXJob2wzcXoyeTM4NHg1M3cwMHA4anEwMHcydjcwaHJrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pTsNgkamxfk2ZLq/giphy.webp">
