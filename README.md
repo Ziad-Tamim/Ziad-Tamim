@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ziad Tamim</h1>
-<h3 align="center">An Artificial Intelligence developer from Jeddah, Saudi Arabia</h3>
+<h1 align="center">Hi 👋, I'm Ziad</h1>
+<h3 align="center">An artificial intelligence graduate from Jeddah, Saudi Arabia</h3>
 
 <a href="#" target="_blank" align="center">
   <img align="right" height="300" width="400" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Rla2JobXJob2wzcXoyeTM4NHg1M3cwMHA4anEwMHcydjcwaHJrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pTsNgkamxfk2ZLq/giphy.webp">
 </a>
 <br/>
 
-- I’m an MSc graduate from <a href="https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/artificial-intelligence-msc/" target="_blank">Queen Mary University of London</a> with a degree in Artificial Intelligence 
+- MSc in artificial intelligence graduate from <a href="https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/artificial-intelligence-msc/" target="_blank">Queen Mary University of London</a>
 
--  I’m currently working on a website that can optimize a CV based on job requirments
+-  I’m currently working on a website called Mueen to help users write documents, emails, social media content in arabic with the help of AI
 
 -  I’m currently learning from the book "Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow"
 
--  I regularly write articles on [Medium](https://medium.com/@Ziad_Tamim) about machine learning and AI
+-  I regularly post on my [portfolio](https://www.ziadtamim.com/posts) about machine learning and AI
 
 -  Ask me about **Machine Learning and Deep Learning**
 
@@ -110,4 +110,4 @@
 
 ---
 
-Last Edited on: 25/09/2024
+Last Edited on: 22/04/2025
