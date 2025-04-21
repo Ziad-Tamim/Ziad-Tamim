@@ -104,8 +104,8 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Every Data Scientist Should Know This By Heart— Beginners Level Machine Learning Concept](https://medium.com/@Ziad_Tamim/every-data-scientist-should-know-this-by-hear-beginners-level-machine-learning-concept-832f76224614)
-- [An Introduction to TinyML with Projects](https://medium.com/@Ziad_Tamim/introduction-to-tinyml-with-projects-5191dd91e6c7)
+- [Every Data Scientist Should Know This By Heart— Beginners Level Machine Learning Concept](https://www.ziadtamim.com/posts/every-data-scientist-should-know-this-by-heart)
+- [An Introduction to TinyML with Projects](https://www.ziadtamim.com/posts/Introduction-to-tinyML)
 <!-- BLOG-POST-LIST:END -->
 
 ---
