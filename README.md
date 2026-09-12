@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ziad Tamim</h1>
-<h3 align="center">AI Graduate | Builder | Lifelong Learner</h3>
+<h3 align="center">AI Engineer | Builder | Lifelong Learner</h3>
 
 <p align="center">
   <a href="https://www.ziadtamim.com" target="_blank">🌐 Portfolio</a> •
@@ -11,6 +11,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 MSc in Artificial Intelligence from [Queen Mary University of London](https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/artificial-intelligence-msc/)  
+- 💼 Currently an **AI Engineer** at **Future Look ITC** (Riyadh) — building production Arabic conversational AI (STT, TTS, LLMs, and RAG) and fine-tuning open-source models for Saudi dialects.  
 - 🚀 Currently building **[MueenCVs](https://www.ziadtamim.com/products/mueen)** – AI-powered tool that creates a professional, tailored CV for any job you’re applying to — in seconds.  
 - 📚 Learning from *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*.  
 - 📝 I actively share **learning posts, detailed project write-ups, and tutorials** on  
