@@ -12,8 +12,6 @@
 ### 👨‍💻 About Me
 - 🎓 MSc in Artificial Intelligence from [Queen Mary University of London](https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/artificial-intelligence-msc/)  
 - 💼 Currently an **AI Engineer** at **Future Look ITC** (Riyadh) — building production Arabic conversational AI (STT, TTS, LLMs, and RAG) and fine-tuning open-source models for Saudi dialects.  
-- 🚀 Currently building **[MueenCVs](https://www.ziadtamim.com/products/mueen)** – AI-powered tool that creates a professional, tailored CV for any job you’re applying to — in seconds.  
-- 📚 Learning from *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*.  
 - 📝 I actively share **learning posts, detailed project write-ups, and tutorials** on  
   - 🐦 [Twitter](https://x.com/Ziad_Tamim_)  
   - 📄 [My Blog](https://www.ziadtamim.com/posts)  
