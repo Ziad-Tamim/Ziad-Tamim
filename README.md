@@ -1,26 +1,23 @@
-<h1 align="center">Hi 👋, I'm Ziad Tamim</h1>
+<h1 align="center">Ziad Tamim</h1>
 <h3 align="center">AI Engineer | Builder | Lifelong Learner</h3>
 
 <p align="center">
-  <a href="https://www.ziadtamim.com" target="_blank">🌐 Portfolio</a> •
-  <a href="https://x.com/Ziad_Tamim_" target="_blank">🐦 Twitter</a> •
-  <a href="https://www.linkedin.com/in/ziad-tamim/" target="_blank">💼 LinkedIn</a>
+  <a href="https://www.ziadtamim.com">Portfolio</a> ·
+  <a href="https://x.com/Ziad_Tamim_">Twitter</a> ·
+  <a href="https://www.linkedin.com/in/ziad-tamim/">LinkedIn</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 MSc in Artificial Intelligence from [Queen Mary University of London](https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/artificial-intelligence-msc/)  
-- 💼 Currently an **AI Engineer** at **Future Look ITC** (Riyadh) — building production Arabic conversational AI (STT, TTS, LLMs, and RAG) and fine-tuning open-source models for Saudi dialects.  
-- 📝 I actively share **learning posts, detailed project write-ups, and tutorials** on  
-  - 🐦 [Twitter](https://x.com/Ziad_Tamim_)  
-  - 📄 [My Blog](https://www.ziadtamim.com/posts)  
-- 💬 Ask me about **Machine Learning, Deep Learning, and Computer Vision**  
-- 📩 Reach me at **ziad_tamim@outlook.com**
+I build Arabic conversational AI in production at **Future Look ITC** in Riyadh. That means speech recognition, speech synthesis, LLMs, and retrieval, stitched into systems that have to hold up on a real phone call. A lot of my time goes into fine-tuning open-source speech models for Saudi dialects (Najdi and Hijazi), serving them on multi-GPU infrastructure, and building the datasets and evaluation harnesses that decide which model actually ships.
+
+Before that, I did an MSc in Artificial Intelligence at Queen Mary University of London, finishing with First-Class Honours. For my MSc project I worked on making vision models run efficiently on edge devices.
+
+I write about machine learning, deep learning, and computer vision on my [blog](https://www.ziadtamim.com/posts) and [Twitter](https://x.com/Ziad_Tamim_). If you want to compare notes on Arabic ASR, model evaluation, or voice agents, email me at **ziad_tamim@outlook.com**.
 
 ---
 
-### 🛠 Tools & Libraries I Use
+### Tools I use
 
 **Languages & Frameworks**  
 <p>
@@ -49,22 +46,27 @@
 
 ---
 
-### 📝 Latest Blog Posts
+### Latest posts
 <!-- BLOG-POST-LIST:START -->
-- [Every Data Scientist Should Know This By Heart— Beginners Level Machine Learning Concept](https://www.ziadtamim.com/posts/every-data-scientist-should-know-this-by-heart)
+- [Every Data Scientist Should Know This By Heart — Beginners Level Machine Learning Concept](https://www.ziadtamim.com/posts/every-data-scientist-should-know-this-by-heart)
 - [An Introduction to TinyML with Projects](https://www.ziadtamim.com/posts/Introduction-to-tinyML)
 <!-- BLOG-POST-LIST:END -->
-📚 **More on my [blog](https://www.ziadtamim.com/posts)**
+
+There's more on the [blog](https://www.ziadtamim.com/posts).
 
 ---
 
-### 📂 Featured Projects
-- 🔹 [MueenCVs](https://www.ziadtamim.com/products/mueen) – AI-powered tool that creates a professional, tailored CVs. 
-- 🔹 [All Projects](https://www.ziadtamim.com/projects)
+### Featured projects
+
+- **[MueenCVs](https://www.ziadtamim.com/products/mueen)** — builds a tailored CV for any job posting in seconds.
+- **[nanoGPT from scratch](https://github.com/Ziad-Tamim/nanoGPT-from-scratch)** — a decoder-only GPT assembled one component per file, with the math notes and diagrams to go with it.
+
+[All projects →](https://www.ziadtamim.com/projects)
 
 ---
 
-### 🤝 Connect with Me
+### Elsewhere
+
 <p align="left">
   <a href="https://x.com/Ziad_Tamim_" target="_blank"><img src="https://img.icons8.com/doodle/40/twitter-squared--v2.png"/></a>
   <a href="https://www.linkedin.com/in/ziad-tamim/" target="_blank"><img src="https://img.icons8.com/doodle/40/linkedin--v2.png"/></a>
@@ -74,4 +76,4 @@
 
 ---
 
-_Last Updated: {{today’s date}}_
+_Last updated: September 2026_
